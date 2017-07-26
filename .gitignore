@@ -1,0 +1,6 @@
+# macOS specific stuffs
+*.DS_Store
+._*
+
+node_modules
+dist

@@ -18,7 +18,7 @@
     }
   },
   "scripts": {
-    "build": "npm run html && npm run compile",
+    "build": "mkdir dist && npm run html && npm run compile",
     "html": "cp src/index.html dist",
     "compile": "browserify src/main.ts -p tsify --noImplicitAny > dist/snake.js",
     "watch": "npm-watch"

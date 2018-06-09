@@ -2,7 +2,7 @@
 
 It's a simple snake game crafted with typescript.🐍🕹
 
-### You can play with it here: https://munkacsimark.github.io/snake-game/
+### You can play with it here: https://munkacsimark.gitlab.io/snake-game/
 
 Get dependencies:
 ```bash
